@@ -1,4 +1,4 @@
-# Odd-Even-Cricket-game        
+# Hand-Cricket-game        
      
 This is a game in which we play cricket(hand game) against Computer.     
             
